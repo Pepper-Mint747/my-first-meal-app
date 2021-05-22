@@ -1,0 +1,46 @@
+img {
+    border-radius: 5px !important;
+}
+
+.col-md-3 {
+    margin: 30px !important;
+}
+
+a, a:hover, a:focus, a:active {
+    color: inherit!important;
+    text-decoration: none!important;
+}
+
+p {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#navbar {
+    background-color: brown;
+    height: 60px;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left: 15px !important;
+}
+
+#nav-elements {
+    text-align: center;
+    padding: 10px;
+}
+
+#app {
+    float: left;
+    font-size: 15px !important;
+}
+
+.footer  {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
